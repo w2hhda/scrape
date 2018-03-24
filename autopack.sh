@@ -19,4 +19,4 @@ cd ~/scrape
 
 tar zxvf scrape.tar.gz
 
-nohub ./scrape &
+nohup ./scrape &
